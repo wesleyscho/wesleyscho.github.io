@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://wesleyscho.github.io
+title: Wes Random Notes
+paginate: 10
